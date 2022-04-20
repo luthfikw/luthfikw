@@ -1,6 +1,16 @@
-### Hi there 👋
+<a href="https://github.com/gearintellix">
+  <img src="https://raw.githubusercontent.com/gearintellix/gearintellix/main/gearintellix.svg" alt="gearintellix" align="left" height="275" />
+</a>
+
+# GearIntellix
+
+<a href="https://github.com/luthfikw">
+  <img src="https://github-readme-stats.vercel.app/api?username=luthfikw&show_icons=true&bg_color=67.5,EC2F4B,8C5C95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true&hide_title=true" alt="GearIntellix's GitHub Stats" />
+</a>
 
 <!--
+### Hi there 👋
+
 **luthfikw/luthfikw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
